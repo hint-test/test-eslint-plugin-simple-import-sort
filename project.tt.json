@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "test-eslint-plugin-simple-import-sort",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}

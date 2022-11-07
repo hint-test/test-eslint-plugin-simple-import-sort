@@ -5,7 +5,7 @@ module.exports = {
     'react/jsx-uses-react': 'off',
     'react/react-in-jsx-scope': 'off',
     'import/order': 'off',
-    'import/first': 'warn',
+    'import/first': ['warn', 'disable-absolute-first'],
     'import/newline-after-import': 'warn',
     'import/no-duplicates': 'warn',
     'simple-import-sort/imports': 'warn',
